@@ -1,0 +1,19 @@
+<svg width="512" height="160" viewBox="0 0 512 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="160" rx="32" fill="#F8FAFC"/>
+  <rect x="16" y="16" width="480" height="128" rx="24" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="40" y="40" width="80" height="80" rx="24" fill="#0F172A"/>
+  <circle cx="80" cy="80" r="22" fill="#F8FAFC"/>
+  <path d="M80 58C67.8497 58 58 67.8497 58 80C58 92.1503 67.8497 102 80 102" stroke="#0F172A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M80 58C92.1503 58 102 67.8497 102 80C102 92.1503 92.1503 102 80 102" stroke="#3B82F6" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="80" cy="80" r="6" fill="#0F172A"/>
+  <path d="M80 36V28" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M80 132V124" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M124 80H132" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M28 80H36" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="144" cy="58" r="4" fill="#3B82F6"/>
+  <circle cx="160" cy="58" r="4" fill="#94A3B8"/>
+  <text x="150" y="72" fill="#0F172A" font-family="Geist Sans, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.04em">Empathy Engine</text>
+  <text x="150" y="100" fill="#475569" font-family="Geist Sans, Arial, sans-serif" font-size="16" font-weight="500">Search the signal. Simulate the response.</text>
+  <rect x="150" y="112" width="138" height="24" rx="12" fill="#EFF6FF"/>
+  <text x="166" y="128" fill="#2563EB" font-family="Geist Sans, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0.12em">HACKATHON READY</text>
+</svg>

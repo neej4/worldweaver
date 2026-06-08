@@ -1,0 +1,40 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F8FAFC"/>
+  <circle cx="958" cy="126" r="214" fill="url(#paint0_radial)" fill-opacity="0.9"/>
+  <circle cx="220" cy="546" r="240" fill="url(#paint1_radial)" fill-opacity="0.65"/>
+  <rect x="36" y="36" width="1128" height="558" rx="36" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="72" y="72" width="1056" height="486" rx="28" fill="#FCFDFE"/>
+  <rect x="96" y="98" width="280" height="44" rx="22" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <circle cx="124" cy="120" r="10" fill="#3B82F6"/>
+  <text x="144" y="126" fill="#0F172A" font-family="Geist Sans, Arial, sans-serif" font-size="20" font-weight="600">Empathy Engine</text>
+  <text x="96" y="246" fill="#0F172A" font-family="Geist Sans, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-0.05em">Search the signal.</text>
+  <text x="96" y="322" fill="#0F172A" font-family="Geist Sans, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-0.05em">Simulate the response.</text>
+  <text x="96" y="388" fill="#475569" font-family="Geist Sans, Arial, sans-serif" font-size="28" font-weight="500">A modern multi-agent scenario sandbox for geopolitical, economic, and narrative stress testing.</text>
+  <rect x="96" y="434" width="218" height="42" rx="21" fill="#0F172A"/>
+  <text x="126" y="461" fill="white" font-family="Geist Sans, Arial, sans-serif" font-size="18" font-weight="600">Hackathon build</text>
+  <rect x="734" y="144" width="318" height="334" rx="32" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="760" y="172" width="266" height="54" rx="18" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="784" y="206" fill="#64748B" font-family="Geist Sans, Arial, sans-serif" font-size="18" font-weight="500">Rupiah drops to 18,000 per USD</text>
+  <rect x="760" y="250" width="266" height="112" rx="24" fill="#F8FAFC"/>
+  <circle cx="810" cy="306" r="18" fill="#DBEAFE"/>
+  <circle cx="905" cy="292" r="14" fill="#E2E8F0"/>
+  <circle cx="970" cy="328" r="22" fill="#FDE68A"/>
+  <circle cx="875" cy="340" r="16" fill="#FECACA"/>
+  <path d="M810 306L875 340L905 292L970 328" stroke="#CBD5E1" stroke-width="4" stroke-linecap="round"/>
+  <rect x="760" y="386" width="126" height="64" rx="20" fill="#F8FAFC"/>
+  <text x="782" y="415" fill="#94A3B8" font-family="Geist Sans, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="0.12em">AGENTS</text>
+  <text x="782" y="438" fill="#0F172A" font-family="Geist Sans, Arial, sans-serif" font-size="26" font-weight="700">42</text>
+  <rect x="900" y="386" width="126" height="64" rx="20" fill="#F8FAFC"/>
+  <text x="922" y="415" fill="#94A3B8" font-family="Geist Sans, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="0.12em">ROUNDS</text>
+  <text x="922" y="438" fill="#0F172A" font-family="Geist Sans, Arial, sans-serif" font-size="26" font-weight="700">10</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(958 126) rotate(90) scale(214)">
+      <stop stop-color="#DBEAFE"/>
+      <stop offset="1" stop-color="#DBEAFE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 546) rotate(90) scale(240)">
+      <stop stop-color="#E2E8F0"/>
+      <stop offset="1" stop-color="#E2E8F0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
